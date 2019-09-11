@@ -11,8 +11,10 @@ module.exports = {
   },
   // 3
   devServer: {
-    contentBase: './dist'
-    hot: true
+    contentBase: './dist',
+    hot: true,
+    historyApiFallback: true
+
   },
   
   module: {
