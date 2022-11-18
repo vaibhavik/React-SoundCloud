@@ -23,7 +23,7 @@
     "react-addons-test-utils": "^15.6.2",
     "react-hot-loader": "^4.12.12",
     "webpack": "^4.39.3",
-    "webpack-cli": "^3.3.8",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.8.0"
   },
   "babel": {
