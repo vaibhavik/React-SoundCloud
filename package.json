@@ -19,7 +19,7 @@
     "chai": "^4.2.0",
     "enzyme": "^3.10.0",
     "jsdom": "^15.1.1",
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "react-addons-test-utils": "^15.6.2",
     "react-hot-loader": "^4.12.12",
     "webpack": "^4.39.3",
